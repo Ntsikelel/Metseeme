@@ -139,12 +139,12 @@
       align-items: center;
       padding: 10px 10px;
   }
-  section .con
+  .section .con
   {
     text-align: center;
   }
   
-  section .con h2
+  .section .con h2
   {
     font-size: 5rem;
     line-height: 1rem;
@@ -152,7 +152,7 @@
     -webkit-text-fill-color: transparent;
     background-attachment: fixed;
   }
-  section .con p
+  .section .con p
   {
     max-width: 800px;
 
