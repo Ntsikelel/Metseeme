@@ -129,7 +129,34 @@
     margin-top: 1rem;
     font-size: 1.5rem;
   }
+  .Blocks
+  {
+      position: relative;
+      width: 100%;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 10px 10px;
+  }
+  section .con
+  {
+    text-align: center;
+  }
   
+  section .con h2
+  {
+    font-size: 5rem;
+    line-height: 1rem;
+    --webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-attachment: fixed;
+  }
+  section .con p
+  {
+    max-width: 800px;
+
+  }
   .section-c .gallery {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
