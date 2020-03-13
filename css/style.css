@@ -146,7 +146,7 @@
   
    .con h2
   {
-    font-size: 212rem;
+    font-size: 21rem;
     line-height: 5rem;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -154,11 +154,11 @@
   }
     .con.cnt h2
     {
-        background-image: url('../img/apple-coffee-computer-desk-356056.jpg');
+        background-image: url('https://images.pexels.com/photos/5836/yellow-metal-design-decoration.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500');
     }
     .con.prg h2
     {
-           background-image: url('../img/grayscale-photo-of-computer-laptop-near-white-notebook-and-169573.jpg');
+           background-image: url('https://images.pexels.com/photos/942317/pexels-photo-942317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     }
    .con p
   {
