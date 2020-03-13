@@ -146,8 +146,10 @@
   
    .con h2
   {
-    font-size: 21vw;
+    font-size: 24vw;
     line-height: 1rem;
+      font-weight:800;
+     padding :20px;
     text-transform : uppercase;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -161,11 +163,7 @@
     {
            background-image: url('https://images.pexels.com/photos/942317/pexels-photo-942317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     }
-   .con p
-  {
-    max-width: 800px;
 
-  }
   .section-c .gallery {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
