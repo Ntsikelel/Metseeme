@@ -152,11 +152,11 @@
     -webkit-text-fill-color: transparent;
     background-attachment: fixed;
   }
-    .con .cnt
+    .con.cnt
     {
         background-image: url('../img/apple-coffee-computer-desk-356056.jpg');
     }
-    .con .prg
+    .con.prg
     {
            background-image: url('../img/grayscale-photo-of-computer-laptop-near-white-notebook-and-169573.jpg');
     }
