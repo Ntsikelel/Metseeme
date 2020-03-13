@@ -139,12 +139,12 @@
       align-items: center;
       padding: 10px 10px;
   }
-  .section .con
+   .con
   {
     text-align: center;
   }
   
-  .section .con h2
+   .con h2
   {
     font-size: 5rem;
     line-height: 1rem;
@@ -152,15 +152,15 @@
     -webkit-text-fill-color: transparent;
     background-attachment: fixed;
   }
-    .section .con .cnt
+    .con .cnt
     {
         background-image: url('../img/apple-coffee-computer-desk-356056.jpg');
     }
-    .section .con .prg
+    .con .prg
     {
            background-image: url('../img/grayscale-photo-of-computer-laptop-near-white-notebook-and-169573.jpg');
     }
-  .section .con p
+   .con p
   {
     max-width: 800px;
 
