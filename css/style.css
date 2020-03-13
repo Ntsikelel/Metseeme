@@ -148,7 +148,7 @@
   {
     font-size: 5rem;
     line-height: 1rem;
-    --webkit-background-clip: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-attachment: fixed;
   }
