@@ -152,6 +152,14 @@
     -webkit-text-fill-color: transparent;
     background-attachment: fixed;
   }
+    .section .con .cnt
+    {
+        background-image: url('../img/apple-coffee-computer-desk-356056.jpg');
+    }
+    .section .con .prg
+    {
+           background-image: url('../img/grayscale-photo-of-computer-laptop-near-white-notebook-and-169573.jpg');
+    }
   .section .con p
   {
     max-width: 800px;
