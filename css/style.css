@@ -146,7 +146,8 @@
   
    .con h2
   {
-    font-size: 5rem;
+    font-size: 24vw;
+    font-weight : 800;
     line-height: 1rem;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
