@@ -146,10 +146,7 @@
   
    .con h2
   {
-    font-size: 24vw;
-    line-height: 1rem;
-    font-weight:800;
-    padding :50px;
+    font-size: 10vw;
     text-transform : uppercase;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
