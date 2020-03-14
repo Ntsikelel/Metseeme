@@ -389,15 +389,10 @@
   padding: 50px 20px;
   padding-top: 100px;
   display: flex;
-  background-image: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%);
-
-  display: flex;
-  background-image: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%);
-
-
+  background-image: linear-gradient(-20deg, #e1b382 0%, #6944ff 100%);
 }
 
-.profile-card {
+.Cont-content{
   width: 100%;
   min-height: 460px;
   margin: auto;
