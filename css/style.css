@@ -1,6 +1,6 @@
 :root {
     --primary-color: #e1b382;
-    --secondary-color: #2d545e;
+    --secondary-color: #12343b;
     --overlay-color: rgba(0, 0, 0, 0.7);
   }
   
@@ -57,8 +57,6 @@
   }
   
   .navbar .logo {
-    color: #333;
-    background-color:  #e1b382;  
     font-size: 2rem;
   }
   
