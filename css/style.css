@@ -358,7 +358,7 @@
      height: 40%;
 }
 
-     .Cont-btn { 
+     .Cont-btn a { 
     background : #2d545e;
     } 
   @media (max-width: 700px) {
@@ -373,7 +373,7 @@
    { 
      width: 80%;
     }
-        .Cont-btn
+        .Cont-btn a
    { 
      justify-content: left;
   
