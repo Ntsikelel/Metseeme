@@ -304,6 +304,7 @@
 
   }
      .section-a  { 
+     background: linear-gradient(330deg, #e1b382 50%, #FFF 50%) ;
      color:#333;
       margin : 0;
     }
