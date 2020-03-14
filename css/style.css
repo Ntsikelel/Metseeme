@@ -416,7 +416,7 @@
 /*     width: 128px; */
       position: relative;
      left: 50%;
-     transform: translate(-50%, -50%);
+     transform: translate(-50%, -75%);
      width: 40%;
      height: 40%;
 }
