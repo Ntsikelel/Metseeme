@@ -103,12 +103,7 @@
    .section-a a{
     background : #2d545e;  
     }
-.carousel{
-    margin: 5px;
-    padding : 20px;
-    height : 500px;
-    width : auto;
-}
+
 .carousel-inner > .item {
    height: 60vh;
 }
