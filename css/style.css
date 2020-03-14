@@ -384,6 +384,10 @@
 .wrapper {
   width: 100vw;
   min-height: 100vh;
+  justify-self: flex-end;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .Cont-content{
