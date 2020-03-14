@@ -384,14 +384,24 @@
 .wrapper {
   width: 100vw;
   min-height: 100vh;
-  justify-self: flex-end;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+ 
 }
 
 .Cont-content{
   
+}
+.Con-card
+{ 
+    justify-self: flex-end;
+    display: flex;
+    align-items: center;
+     justify-content: center;
+     min-height: 460px;
+     box-shadow: 0px 8px 60px -10px rgba(13,28,39,0.6);
+     background: #fff;
+     border-radius: 12px;
+      max-width: 700px;
+     position: relative;
 }
 .Con-img{
     height: 128px;
