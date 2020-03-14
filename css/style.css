@@ -77,7 +77,6 @@
   
   .section-a {
    background: linear-gradient(90deg, #bd8c7d 50%, #FFF 50%) ;
-   /* background: url('../img/gray-metal-cubes-decorative-1005644.jpg') no-repeat top center/cover;*/
     margin: 2rem 0;
   }
   
@@ -97,6 +96,9 @@
   .section-a p {
     margin: 1rem 0;
   }
+   .section-a a{
+    background : #ffde22;  
+    }
   
   .section-b {
     position: relative;
@@ -139,7 +141,6 @@
       justify-content: center;
       align-items: center;
       padding: 10px 10px;
-      background: linear-gradient(90deg, #ed8a63 50%, #FFF 50%);
   }
    .con
   {
