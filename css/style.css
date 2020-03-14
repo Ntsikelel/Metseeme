@@ -334,7 +334,7 @@
 .Con-card
 { 
     justify-self: flex-end;
-    display: flex;
+/*     display: flex; */
     align-items: center;
      justify-content: center;
      min-height: 460px;
@@ -353,7 +353,7 @@
 /*     width: 128px; */
       position: relative;
      left: 50%;
-     transform: translate(-50%, -85%);
+     transform: translate(-50%, -50%);
      width: 40%;
      height: 40%;
 }
