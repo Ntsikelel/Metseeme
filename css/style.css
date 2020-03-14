@@ -389,8 +389,10 @@
 }
 
 .Cont-Content{
-  align-items: center;
+     align-items: center;
      justify-content: center;
+    color: #2d545e;
+    
 }
 .Con-card
 { 
