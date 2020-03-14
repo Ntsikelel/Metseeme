@@ -1,6 +1,6 @@
 :root {
     --primary-color: #e1b382;
-    --secondary-color: #e1b382;
+    --secondary-color: #c89666;
     --overlay-color: rgba(0, 0, 0, 0.7);
   }
   
@@ -48,7 +48,6 @@
     font-size: 1.2rem;
     padding-top: 0.3rem;
     padding-bottom: 0.3rem;
-    background: linear-gradient(90deg, #fff 50%, #e1b382 50%) ;
   }
   
   .navbar .container {
@@ -202,7 +201,7 @@
   
   .section-footer {
     background: var(--primary-color);
-    color: #fff;
+    color: #2d545e;
     padding: 3rem 0;
   }
   
