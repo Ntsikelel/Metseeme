@@ -321,6 +321,7 @@
   min-height: 100vh;
  align-items: center;
      justify-content: center;
+    background: linear-gradient(345deg, #e1b382 50%, #FFF 50%) ;
 }
 
 .Cont-Content{
@@ -347,13 +348,13 @@
      height: 50%;
 }
 .Con-img{
-    height: 128px;
-    width: 128px;
+/*     height: 128px; */
+/*     width: 128px; */
       position: relative;
      left: 50%;
      transform: translate(-50%, -75%);
-/*      width: 40%; */
-/*      height: 40%; */
+     width: 40%;
+     height: 40%;
 }
   @media (max-width: 700px) {
        .nav {
