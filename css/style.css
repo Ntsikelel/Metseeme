@@ -104,8 +104,14 @@
     background : #2d545e;  
     }
 .carousel{
-    height : 400px;
-    width : 400px;
+    height : 80vh;
+    width : auto;
+}
+.carousel img{
+min-width :100%;
+    min-height: 100%;
+    width: auto;
+    height : auto;
 }
   .section-b {
     position: relative;
