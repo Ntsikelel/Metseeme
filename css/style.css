@@ -76,7 +76,9 @@
   }
   
   .section-a {
-      background: linear-gradient(90deg, #e1b382 50%, #FFF 50%) ;
+      margin: 20px;
+      padding : 20px;
+      background: linear-gradient(350deg, #e1b382 50%, #FFF 50%) ;
       color : #2d545e; 
      /*background: linear-gradient(90deg, #bd8c7d 50%, #FFF 50%) ;*/
     /*margin: 2rem 0;*/
