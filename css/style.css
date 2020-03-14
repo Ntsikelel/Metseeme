@@ -104,6 +104,8 @@
     background : #2d545e;  
     }
 .carousel{
+    margin: 40px;
+      padding : 20px;
     height : 80vh;
     width : auto;
 }
