@@ -412,6 +412,11 @@
      height: 50%;
 }
 .Con-img{
-    height: 128px;
-    width: 128px;
+/*     height: 128px; */
+/*     width: 128px; */
+    position: relative;
+     left: 50%;
+     transform: translate(-50%, 0%);
+     width: 40%;
+     height: 40%;
 }
