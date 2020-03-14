@@ -325,10 +325,10 @@
 }
 
 .Cont-Content{
+    margin : 20px;
      align-items: center;
      justify-content: center;
-    color: #2d545e;
-    
+    color: #2d545e; 
 }
 .Con-card
 { 
@@ -365,11 +365,13 @@
       text-align: center;
     }
       .Con-card
-{ 
-    
+   { 
      width: 80%;
- 
-}
+    }
+        .Con-btn
+   { 
+     justify-content: left;
+    } 
      .section-a  { 
      background: linear-gradient(345deg, #e1b382 50%, #FFF 50%) ;
      color:#333;
