@@ -78,7 +78,7 @@
   
   .section-a {
    background: linear-gradient(90deg, #bd8c7d 50%, #FFF 50%) ;
-      color:#333;
+      color:#fff;
     margin: 2rem 0;
   }
   
@@ -301,7 +301,7 @@
   @media (max-width: 700px) {
      .section-a  {
      background: linear-gradient(90deg, #bd8c7d 10%, #FFF 90%) ;
-     color:#fff;
+     color:#333;
     }
   
     .section-a .container {
