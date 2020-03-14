@@ -77,15 +77,15 @@
   
   .section-a {
       background: linear-gradient(90deg, #4cb69f 50%, #FFF 50%) ;
-  /* background: linear-gradient(90deg, #bd8c7d 50%, #FFF 50%) ;*/
+     /*background: linear-gradient(90deg, #bd8c7d 50%, #FFF 50%) ;*/
     color:#fff;
-    margin: 2rem 0;
+    /*margin: 2rem 0;*/
   }
   
   .section-a .container {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 3rem;
+  /*  grid-gap: 3rem;*/
     align-items: center;
     justify-content: center;
   }
