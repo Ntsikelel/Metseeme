@@ -104,13 +104,13 @@
     background : #2d545e;  
     }
 .carousel{
-    margin: 40px;
-      padding : 20px;
-    height : 80vh;
+    margin: 5px;
+    padding : 20px;
+    height : 500px;
     width : auto;
 }
 .carousel img{
-min-width :100%;
+    min-width :100%;
     min-height: 100%;
     width: auto;
     height : auto;
