@@ -109,12 +109,16 @@
     height : 500px;
     width : auto;
 }
+.carousel-inner > .item {
+   height: 60vh;
+}
 .carousel img{
     min-width :100%;
     min-height: 100%;
     width: auto;
     height : auto;
 }
+
   .section-b {
     position: relative;
     background: url('https://images.pexels.com/photos/1081685/pexels-photo-1081685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') no-repeat top center/cover;
