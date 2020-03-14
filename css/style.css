@@ -357,6 +357,10 @@
      width: 40%;
      height: 40%;
 }
+
+     .Cont-btn { 
+    background : #2d545e;
+    } 
   @media (max-width: 700px) {
        .nav {
 
@@ -369,9 +373,10 @@
    { 
      width: 80%;
     }
-        .Con-btn
+        .Cont-btn
    { 
      justify-content: left;
+  
     } 
      .section-a  { 
      background: linear-gradient(345deg, #e1b382 50%, #FFF 50%) ;
