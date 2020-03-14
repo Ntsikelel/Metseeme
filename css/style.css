@@ -1,6 +1,6 @@
 :root {
-    --primary-color: #e1b382;
-    --secondary-color: #12343b;
+    --primary-color: #393f4d;
+    --secondary-color: #feda6a;
     --overlay-color: rgba(0, 0, 0, 0.7);
   }
   
@@ -14,7 +14,6 @@
     font-family: 'Catamaran', sans-serif;
     line-height: 1.6;
     color: #333;
-    background: linear-gradient(90deg, #ed8a63 50%, #FFF 50%);
     font-size: 1.1rem;
   }
   
@@ -139,6 +138,7 @@
       justify-content: center;
       align-items: center;
       padding: 10px 10px;
+      background: linear-gradient(90deg, #ed8a63 50%, #FFF 50%);
   }
    .con
   {
