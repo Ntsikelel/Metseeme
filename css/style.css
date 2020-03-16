@@ -61,16 +61,16 @@
     height : 32px;
 }
   .nav .logo {
-     position : absolute;
+/*      position : absolute; */
     width : 100%;
     font-size : 2rem;
-     margin :0;
-     padding : 0;
+/*      margin :0; */
+/*      padding : 0; */
     color : transparent;
   }
   .nav .logo:before {
      content : attr(text);  
-     position : absolute;
+/*      position : absolute; */
      top:0%;
      left : 0%;
      font-size : 2rem; 
