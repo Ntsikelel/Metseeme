@@ -61,9 +61,28 @@
     height : 32px;
 }
   .nav .logo {
+      
     font-size: 2rem;
   }
-  
+    .nav .logo:before {
+        content : attr(flow);
+        overflow : hidden;
+        boarder-right : 1px solid #2d545e;
+        animation : type 10s step(38) linear infinte;
+        white-space : nowrap;
+    font-size: 2rem;
+  }
+@keyframes type
+{
+    0%
+    {
+         width : 0%;
+    }
+    100%
+    {
+        width : 100%;
+    }
+}
   .nav ul {
     justify-self: flex-end;
     display: flex;
