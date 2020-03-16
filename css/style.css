@@ -61,14 +61,14 @@
     height : 32px;
 }
   .nav .logo {
-     position : absolute;
-    width : 100%;
+/*      position : absolute; */
+/*     width : 100%; */
     font-size : 2rem;
 /*      margin :0; */
 /*      padding : 0; */
-    color : transparent;
+/*     color : transparent; */
   }
-  .nav .logo:before {
+/*   .nav .logo:before {
      content : attr(text);  
      position : absolute;
      top:0%;
@@ -93,7 +93,7 @@
         width : 100%;
     }
   
-}
+} */
   .nav ul {
     justify-self: flex-end;
     display: flex;
