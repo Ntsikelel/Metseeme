@@ -61,15 +61,26 @@
     height : 32px;
 }
   .nav .logo {
-      
-    font-size: 2rem;
+     position : absolute;
+    width : 100%;
+    font-size : 2rem;
+     margin :0;
+     padding : 0;
+    color : transparent;
   }
-    .nav .logo:before {
-        content : attr(data-text);
-        overflow : hidden;
-        border-right : 1px solid #2d545e;
-        animation : type 10s step(38) linear infinite;
-        white-space : nowrap;
+  .nav .logo:before {
+     content : attr(text);  
+     position : absolute;
+     top:0%;
+     left : 0%;
+     font-size : 2rem; 
+     overflow : hidden;
+     width: 100%;
+     height :100%;
+     border-right : 1px solid #2d545e;
+     animation : type 10s linear infinite;
+     white-space : nowrap;
+     color: #000;
   }
 @keyframes type
 {
@@ -77,9 +88,13 @@
     {
          width : 0%;
     }
-    100%
+    50%
     {
         width : 100%;
+    }
+   100%
+    {
+        width : 0%;
     }
 }
   .nav ul {
