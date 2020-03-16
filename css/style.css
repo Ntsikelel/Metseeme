@@ -65,12 +65,11 @@
     font-size: 2rem;
   }
     .nav .logo:before {
-        content : attr(flow);
+        content : attr(data-text);
         overflow : hidden;
-        boarder-right : 1px solid #2d545e;
-        animation : type 10s step(38) linear infinte;
+        border-right : 1px solid #2d545e;
+        animation : type 10s step(38) linear infinite;
         white-space : nowrap;
-    font-size: 2rem;
   }
 @keyframes type
 {
