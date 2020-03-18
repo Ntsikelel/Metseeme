@@ -392,7 +392,8 @@
     background : #2d545e;
     } 
 services-section{
-  background: url("https://images.pexels.com/photos/2681319/pexels-photo-2681319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background: url("https://images.pexels.com/photos/2681319/pexels-photo-2681319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")no-repeat top center/cover;
+    height: 600px;;
   background-size: cover;
   padding: 60px 0;
 }
