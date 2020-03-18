@@ -427,6 +427,7 @@
   padding: 10px;
   text-align: center;
   color: #ddd;
+  min-width: 33.33%;
   cursor: pointer;
 }
 
