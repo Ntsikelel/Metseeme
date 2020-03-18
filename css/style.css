@@ -467,6 +467,9 @@
       grid-template-columns: 1fr;
       text-align: center;
     }
+      .service-box{
+    max-width: 50%;
+  }
       .Con-card
    { 
      width: 80%;
