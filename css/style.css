@@ -92,7 +92,7 @@
 }
 
 .masthead h1 {
-/*   font-family: 'Varela Round'; */
+
   font-size: 2.5rem;
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
@@ -132,7 +132,6 @@
 .btn {
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
-  font-family: 'Varela Round';
   font-size: 80%;
   text-transform: uppercase;
   letter-spacing: .15rem;
@@ -261,7 +260,6 @@
 }
 
 body {
-/*   font-family: 'Nunito'; */
   letter-spacing: 0.0625em;
 }
 
