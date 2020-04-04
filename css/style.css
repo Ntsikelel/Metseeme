@@ -65,15 +65,15 @@
     width : 32px;
     height : 32px;
 }
-  .nav .logo {
-/*      position : absolute; */
+  .navbar-brand{
+     position : absolute;
 /*     width : 100%; */
     font-size : 2rem;
 /*      margin :0; */
 /*      padding : 0; */
-/*     color : transparent; */
+    color : transparent;
   }
-/*   .nav .logo:before {
+  .navbar-brand:before {
      content : attr(text);  
      position : absolute;
      top:0%;
@@ -98,7 +98,7 @@
         width : 100%;
     }
   
-} */
+} 
   .nav ul {
     justify-self: flex-end;
     display: flex;
@@ -123,7 +123,10 @@
      /*background: linear-gradient(90deg, #bd8c7d 50%, #FFF 50%) ;*/
     /*margin: 2rem 0;*/
   }
-  
+navbar-brand
+{ 
+    font-family: 'Catamaran', sans-serif;
+}
   .section-a .container {
     display: grid;
     grid-template-columns: 1fr 1fr;
