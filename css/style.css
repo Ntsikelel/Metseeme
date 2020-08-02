@@ -317,4 +317,7 @@ footer {
      color: #fff;
      border: 1px solid #161616;
    }
+  .masthead {
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url("../img/bg-masthead.jpg");
+}
 }
