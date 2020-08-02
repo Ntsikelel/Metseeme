@@ -124,6 +124,14 @@
     width : 200px;
     height : 100px ;
    }
+  #mainnav
+  {
+      background: #161616;
+  }
+  #mainNav .navbar-toggler {
+  color: #64a19d;
+  border: 1px solid #64a19d;
+}
 }
 
 @media (min-width: 992px) {
