@@ -32,6 +32,11 @@
 }
 
 @media (min-width: 992px) {
+  #logimg
+{
+  width : 100px;
+  height : 100px ;
+}
   #mainNav {
     padding-top: 0;
     padding-bottom: 0;
@@ -107,6 +112,11 @@
 }
 
 @media (min-width: 768px) {
+    #logimg
+{
+  width : 100px;
+  height : 100px ;
+}
   .masthead h1 {
     font-size: 4rem;
     line-height: 4rem;
