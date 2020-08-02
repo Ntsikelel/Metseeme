@@ -4,8 +4,12 @@
 }
 #bgvid
 {
-  position : relative;
+  position : fixed;
   index : -1;
+  top : 0;
+  left : 0;
+  width : 100%;
+  height : 80vh;
 }
 #logimg
 {
