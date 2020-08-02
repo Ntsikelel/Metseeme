@@ -126,11 +126,11 @@
    }
   #mainnav
   {
-      background: #161616;
+      background-color: #64a19d;
   }
   #mainNav .navbar-toggler {
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  color: #fff;
+  border: 1px solid #161616;
 }
 }
 
