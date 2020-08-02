@@ -171,7 +171,11 @@
 .projects-section .featured-text {
   padding: 2rem;
 }
-
+#logimg
+{
+  width : 300px;
+  height : 150px ;
+}
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
@@ -193,6 +197,11 @@
     border-width: .25rem;
     width: 30%;
   }
+  #logimg
+{
+  width : 100px;
+  height : 100px ;
+}
 }
 
 .signup-section {
