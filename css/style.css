@@ -118,21 +118,6 @@
     line-height: 4rem;
   }
 }
-@media (max-width: 767px) {
-   #logimg
-  {
-    width : 200px;
-    height : 100px ;
-   }
-  #mainnav
-  {
-      background-color: #64a19d;
-  }
-  #mainNav .navbar-toggler {
-  color: #fff;
-  border: 1px solid #161616;
-}
-}
 
 @media (min-width: 992px) {
   .masthead {
@@ -305,4 +290,19 @@ a:focus, a:hover {
 
 footer {
   padding: 5rem 0;
+}
+@media (max-width: 767px) {
+   #logimg
+  {
+    width : 200px;
+    height : 100px ;
+   }
+  #mainnav
+  {
+      background-color: #64a19d;
+  }
+  #mainNav .navbar-toggler {
+  color: #fff;
+  border: 1px solid #161616;
+}
 }
