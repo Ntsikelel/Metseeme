@@ -10,8 +10,10 @@
    * - [x] bootstrap
    * - [x] jquery
    
->
-> 
+> This is my portfolio webside to get to know who ***Ntsikelelo Metseeme*** is and what I has done <br>
+> `Enjoy`
 
+__Developers__ :octocat: : [Ntsikelelo Metseeme](https://github.com/Ntsikelel/),[Twitter](https://twitter.com/ntsikimetseeme/) 
+![Webimage](myport.png)
 __Developers__ :octocat: : [Ntsikelelo Metseeme](https://github.com/Ntsikelel/),[Twitter](https://twitter.com/ntsikimetseeme/) 
 
