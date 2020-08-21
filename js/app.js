@@ -121,7 +121,7 @@ particlesJS('particles-js',
       }
     }
   },
-  "retina_detect": true
+  "retina_detect": true,
     "config_demo": {
       "hide_card": false,
       "background_color": "#b61924",
