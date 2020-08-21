@@ -385,6 +385,7 @@ canvas{
 /*   background-color: transparent; */
 /*   background-image: url(''); */
   background-size: cover;
+  z-index: 3 !impprtant;
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
