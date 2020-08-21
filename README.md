@@ -9,6 +9,7 @@
    * - [x] Carousel
    * - [x] bootstrap
    * - [x] jquery
+   * - [x] particle js
    
 > This is my portfolio webside to get to know who ***Ntsikelelo Metseeme*** is and what I has done <br>
 > `Enjoy`
