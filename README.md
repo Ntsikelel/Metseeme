@@ -10,6 +10,7 @@
    * - [x] bootstrap
    * - [x] jquery
    * - [x] particle js
+   * - [x] ScrollOut js
    
 > This is my portfolio webside to get to know who ***Ntsikelelo Metseeme*** is and what I has done <br>
 > `Enjoy`
