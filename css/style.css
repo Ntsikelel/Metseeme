@@ -353,4 +353,12 @@ canvas{
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
-
+[data-scroll] {
+  transition: opacity 1s;
+}
+[data-scroll="in"] {
+  opacity: 1;
+}
+[data-scroll="out"] {
+  opacity: 0;
+}
