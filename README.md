@@ -15,7 +15,7 @@
    
 > This is my portfolio website , A page to get to know who ***Ntsikelelo Metseeme*** is and what I have done as A developer<br>
 > `Enjoy`
-> ```function NtsikeleloMetseeme()
+ ```function NtsikeleloMetseeme()
 {
     return "Awesome !! Developer.";
 }```
