@@ -369,6 +369,7 @@ canvas{
   margin: 0;
   padding: 0;
   background: #2B2D42;
+  background-color:#2B2D42;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -376,8 +377,10 @@ canvas{
   height: 40px;
   display: flex;
   align-items: center;
+  color: #eee;
 }
 .loader{
+  color: #eee;
   width: 6px;
   height: 40px;
   background: white;
